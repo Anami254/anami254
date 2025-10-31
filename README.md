@@ -18,3 +18,6 @@ I believe innovation should be inclusive, empowering communities through code.
 
 Thanks for stopping by! Let’s build something amazing together
 
+chore: added deployment config for HostAfrica + SSL validation steps
+feat: improved mobile layout and pure CSS responsiveness for school site
+
